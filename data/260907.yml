@@ -5,7 +5,7 @@ about:
   head: f5a507c
   archived: false
   latestVersion: "v1.1.1"
-  collectedAt: 2026-09-07T05:01:56Z
+  collectedAt: 2026-09-07T19:20:44Z
 timeline:
   created: 2026-05-09
   lastCommit: 2026-09-06
@@ -13,10 +13,10 @@ timeline:
 popularity:
   star: 20
   watcher: 0
-  fork: 11
+  fork: 12
   release: 1
   contributor: 1
-  pullRequest: 153
+  pullRequest: 158
   issue: 0
 language:
   TypeScript: 33182
@@ -30,7 +30,7 @@ recent:
     since: 2026-08-08
     release: 0
     mergedPR: 34
-    openPR: 0
+    openPR: 5
     closedIssue: 0
     openIssue: 0
     commit: 27
@@ -38,7 +38,7 @@ recent:
     since: 2026-07-09
     release: 0
     mergedPR: 66
-    openPR: 0
+    openPR: 5
     closedIssue: 0
     openIssue: 0
     commit: 68
@@ -46,7 +46,7 @@ recent:
     since: 2026-06-09
     release: 0
     mergedPR: 100
-    openPR: 0
+    openPR: 5
     closedIssue: 0
     openIssue: 0
     commit: 119
@@ -54,7 +54,7 @@ recent:
     since: 2026-03-11
     release: 1
     mergedPR: 144
-    openPR: 0
+    openPR: 5
     closedIssue: 0
     openIssue: 0
     commit: 586
@@ -62,7 +62,7 @@ recent:
     since: 2025-09-12
     release: 1
     mergedPR: 144
-    openPR: 0
+    openPR: 5
     closedIssue: 0
     openIssue: 0
     commit: 586
@@ -70,20 +70,20 @@ recent:
     since: 2024-09-17
     release: 1
     mergedPR: 144
-    openPR: 0
+    openPR: 5
     closedIssue: 0
     openIssue: 0
     commit: 740
 total:
   release: 1
   mergedPR: 144
-  openPR: 0
+  openPR: 5
   closedIssue: 0
   openIssue: 0
   commit: 740
 ---
 path: /home/runner/.x-repo/github.com/IRISX-AI/IRIS-Mini
-collectedAt: 2026-09-07T05:01:58Z
+collectedAt: 2026-09-07T19:20:45Z
 loc:
   Json:
     code: 6540
@@ -144,7 +144,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:01:59+00:00
+  collectedAt: 2026-09-07T19:20:45+00:00
   platform:
     darwin/arm64:
       name:  null
