@@ -4,7 +4,7 @@
 
 IRIS Mini ⚡ — The agentic CLI heartbeat. Scaffolds code 🏗️, commands the local filesystem 📂, and automates your developer workflow directly from the terminal 🚀. Pure execution, zero friction, local-first intelligence 🧠💻.
 
-![IRIS-Mini](https://repo.x-cmd.io/IRIS-Mini.svg)
+[![x-cmd/install — IRIS-Mini Code Quality Monitoring Repo Card](https://repo.x-cmd.io/IRIS-Mini.svg)](https://x-cmd.com/install/IRIS-Mini)
 
 ## Install
 
@@ -33,7 +33,7 @@ Total: **7,584** lines of code across **22** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.1.1` (2026-05-13)
-- **Last commit**: 2026-09-15
+- **Last commit**: 2026-09-19
 - **Assets in release**: 1
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **7,584** lines of code across **22** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 163 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 780
+- **Releases**: 1 · **Merged PRs**: 166 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 787
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 40 | 0 | 0 | 0 | 42 |
-| last60d | 2026-07-20 | 0 | 75 | 0 | 0 | 0 | 78 |
-| 90d | 2026-06-20 | 0 | 109 | 0 | 0 | 0 | 131 |
-| last180d | 2026-03-22 | 1 | 163 | 0 | 0 | 0 | 605 |
-| 360d | 2025-09-23 | 1 | 163 | 0 | 0 | 0 | 605 |
-| last720d | 2024-09-28 | 1 | 163 | 0 | 0 | 0 | 780 |
+| 30d | 2026-08-21 | 0 | 42 | 0 | 0 | 0 | 37 |
+| last60d | 2026-07-22 | 0 | 75 | 0 | 0 | 0 | 71 |
+| 90d | 2026-06-22 | 0 | 111 | 0 | 0 | 0 | 122 |
+| last180d | 2026-03-24 | 1 | 166 | 0 | 0 | 0 | 608 |
+| 360d | 2025-09-25 | 1 | 166 | 0 | 0 | 0 | 608 |
+| last720d | 2024-09-30 | 1 | 166 | 0 | 0 | 0 | 787 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for IRIS-Mini lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:17:59Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:27:13Z._
