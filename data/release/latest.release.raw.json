@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 739119,
       "digest": "sha256:af40e74d0dacd3d7583ac61705f84081ce820a60c74bd37eec35f1f4779ad062",
-      "download_count": 25,
+      "download_count": 27,
       "created_at": "2026-05-13T15:51:16Z",
       "updated_at": "2026-05-13T15:51:41Z",
       "browser_download_url": "https://github.com/IRISX-AI/IRIS-Mini/releases/download/v1.1.1/iris-mini-1.1.1.tgz"
