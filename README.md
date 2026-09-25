@@ -14,11 +14,11 @@ x install IRIS-Mini
 
 ## Code insight
 
-Total: **7,584** lines of code across **22** files in the top 5 languages.
+Total: **7,587** lines of code across **22** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 6,546 | 0 | 2 | 4 |
+| Json | 6,549 | 0 | 2 | 4 |
 | TypeScript | 585 | 1 | 90 | 11 |
 | Tsx | 376 | 0 | 52 | 4 |
 | JavaScript | 30 | 0 | 5 | 2 |
@@ -33,7 +33,7 @@ Total: **7,584** lines of code across **22** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.1.1` (2026-05-13)
-- **Last commit**: 2026-09-19
+- **Last commit**: 2026-09-24
 - **Assets in release**: 1
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **7,584** lines of code across **22** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 166 · **Open PRs**: 5 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 787
+- **Releases**: 1 · **Merged PRs**: 171 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 797
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 0 | 37 | 5 | 0 | 0 | 37 |
-| last60d | 2026-07-26 | 0 | 73 | 5 | 0 | 0 | 71 |
-| 90d | 2026-06-26 | 0 | 103 | 5 | 0 | 0 | 122 |
-| last180d | 2026-03-28 | 1 | 166 | 5 | 0 | 0 | 608 |
-| 360d | 2025-09-29 | 1 | 166 | 5 | 0 | 0 | 608 |
-| last720d | 2024-10-04 | 1 | 166 | 5 | 0 | 0 | 787 |
+| 30d | 2026-08-26 | 0 | 42 | 0 | 0 | 0 | 42 |
+| last60d | 2026-07-27 | 0 | 75 | 0 | 0 | 0 | 76 |
+| 90d | 2026-06-27 | 0 | 108 | 0 | 0 | 0 | 127 |
+| last180d | 2026-03-29 | 1 | 171 | 0 | 0 | 0 | 613 |
+| 360d | 2025-09-30 | 1 | 171 | 0 | 0 | 0 | 613 |
+| last720d | 2024-10-05 | 1 | 171 | 0 | 0 | 0 | 797 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for IRIS-Mini lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T04:57:49Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T05:07:26Z._
