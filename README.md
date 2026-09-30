@@ -14,11 +14,11 @@ x install IRIS-Mini
 
 ## Code insight
 
-Total: **7,581** lines of code across **22** files in the top 5 languages.
+Total: **7,580** lines of code across **22** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 6,543 | 0 | 2 | 4 |
+| Json | 6,542 | 0 | 2 | 4 |
 | TypeScript | 585 | 1 | 90 | 11 |
 | Tsx | 376 | 0 | 52 | 4 |
 | JavaScript | 30 | 0 | 5 | 2 |
@@ -33,27 +33,27 @@ Total: **7,581** lines of code across **22** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.1.1` (2026-05-13)
-- **Last commit**: 2026-09-28
+- **Last commit**: 2026-09-29
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 20 · **Forks**: 12 · **Open issues**: 0 · **Contributors**: 1
+- **Stars**: 21 · **Forks**: 12 · **Open issues**: 0 · **Contributors**: 1
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 180 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 815
+- **Releases**: 1 · **Merged PRs**: 185 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 826
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 46 | 0 | 0 | 0 | 40 |
-| last60d | 2026-07-31 | 0 | 79 | 0 | 0 | 0 | 77 |
-| 90d | 2026-07-01 | 0 | 111 | 0 | 0 | 0 | 120 |
-| last180d | 2026-04-02 | 1 | 180 | 0 | 0 | 0 | 622 |
-| 360d | 2025-10-04 | 1 | 180 | 0 | 0 | 0 | 622 |
-| last720d | 2024-10-09 | 1 | 180 | 0 | 0 | 0 | 815 |
+| 30d | 2026-08-31 | 0 | 46 | 0 | 0 | 0 | 45 |
+| last60d | 2026-08-01 | 0 | 84 | 0 | 0 | 0 | 82 |
+| 90d | 2026-07-02 | 0 | 112 | 0 | 0 | 0 | 125 |
+| last180d | 2026-04-03 | 1 | 185 | 0 | 0 | 0 | 627 |
+| 360d | 2025-10-05 | 1 | 185 | 0 | 0 | 0 | 627 |
+| last720d | 2024-10-10 | 1 | 185 | 0 | 0 | 0 | 826 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for IRIS-Mini lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T05:59:49Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T05:47:16Z._
