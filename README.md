@@ -48,12 +48,12 @@ Total: **7,603** lines of code across **22** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 0 | 39 | 3 | 0 | 0 | 26 |
-| last60d | 2026-08-26 | 0 | 85 | 3 | 0 | 0 | 77 |
-| 90d | 2026-07-27 | 0 | 118 | 3 | 0 | 0 | 116 |
-| last180d | 2026-04-28 | 1 | 214 | 3 | 0 | 0 | 656 |
-| 360d | 2025-10-30 | 1 | 214 | 3 | 0 | 0 | 656 |
-| last720d | 2024-11-04 | 1 | 214 | 3 | 0 | 0 | 884 |
+| 30d | 2026-09-26 | 0 | 39 | 3 | 0 | 0 | 26 |
+| last60d | 2026-08-27 | 0 | 82 | 3 | 0 | 0 | 77 |
+| 90d | 2026-07-28 | 0 | 116 | 3 | 0 | 0 | 116 |
+| last180d | 2026-04-29 | 1 | 214 | 3 | 0 | 0 | 656 |
+| 360d | 2025-10-31 | 1 | 214 | 3 | 0 | 0 | 656 |
+| last720d | 2024-11-05 | 1 | 214 | 3 | 0 | 0 | 884 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for IRIS-Mini lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T04:53:36Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T04:55:40Z._
