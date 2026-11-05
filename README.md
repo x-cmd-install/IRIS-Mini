@@ -33,7 +33,7 @@ Total: **7,603** lines of code across **22** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.1.1` (2026-05-13)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-11-04
 - **Assets in release**: 1
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **7,603** lines of code across **22** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 214 · **Open PRs**: 6 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 884
+- **Releases**: 1 · **Merged PRs**: 220 · **Open PRs**: 5 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 898
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 20 | 6 | 0 | 0 | 14 |
-| last60d | 2026-09-05 | 0 | 70 | 6 | 0 | 0 | 63 |
-| 90d | 2026-08-06 | 0 | 105 | 6 | 0 | 0 | 107 |
-| last180d | 2026-05-08 | 1 | 214 | 6 | 0 | 0 | 432 |
-| 360d | 2025-11-09 | 1 | 214 | 6 | 0 | 0 | 656 |
-| last720d | 2024-11-14 | 1 | 214 | 6 | 0 | 0 | 884 |
+| 30d | 2026-10-06 | 0 | 23 | 5 | 0 | 0 | 20 |
+| last60d | 2026-09-06 | 0 | 76 | 5 | 0 | 0 | 69 |
+| 90d | 2026-08-07 | 0 | 110 | 5 | 0 | 0 | 113 |
+| last180d | 2026-05-09 | 1 | 219 | 5 | 0 | 0 | 438 |
+| 360d | 2025-11-10 | 1 | 220 | 5 | 0 | 0 | 662 |
+| last720d | 2024-11-15 | 1 | 220 | 5 | 0 | 0 | 898 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for IRIS-Mini lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:34:03Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:00:55Z._
