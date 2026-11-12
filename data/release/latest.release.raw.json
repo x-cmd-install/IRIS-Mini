@@ -1,8 +1,8 @@
 {
-  "url": "https://api.github.com/repos/IRISX-AI/IRIS-Mini/releases/321962686",
-  "assets_url": "https://api.github.com/repos/IRISX-AI/IRIS-Mini/releases/321962686/assets",
-  "upload_url": "https://uploads.github.com/repos/IRISX-AI/IRIS-Mini/releases/321962686/assets{?name,label}",
-  "html_url": "https://github.com/IRISX-AI/IRIS-Mini/releases/tag/v1.1.1",
+  "url": "https://api.github.com/repos/FlowShift-in/IRIS-Mini/releases/321962686",
+  "assets_url": "https://api.github.com/repos/FlowShift-in/IRIS-Mini/releases/321962686/assets",
+  "upload_url": "https://uploads.github.com/repos/FlowShift-in/IRIS-Mini/releases/321962686/assets{?name,label}",
+  "html_url": "https://github.com/FlowShift-in/IRIS-Mini/releases/tag/v1.1.1",
   "id": 321962686,
   "author": {
     "login": "201Harsh",
@@ -37,7 +37,7 @@
   "published_at": "2026-05-13T15:51:44Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/IRISX-AI/IRIS-Mini/releases/assets/419414119",
+      "url": "https://api.github.com/repos/FlowShift-in/IRIS-Mini/releases/assets/419414119",
       "id": 419414119,
       "node_id": "RA_kwDOSYd4PM4Y_8Bn",
       "name": "iris-mini-1.1.1.tgz",
@@ -70,10 +70,10 @@
       "download_count": 36,
       "created_at": "2026-05-13T15:51:16Z",
       "updated_at": "2026-05-13T15:51:41Z",
-      "browser_download_url": "https://github.com/IRISX-AI/IRIS-Mini/releases/download/v1.1.1/iris-mini-1.1.1.tgz"
+      "browser_download_url": "https://github.com/FlowShift-in/IRIS-Mini/releases/download/v1.1.1/iris-mini-1.1.1.tgz"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/IRISX-AI/IRIS-Mini/tarball/v1.1.1",
-  "zipball_url": "https://api.github.com/repos/IRISX-AI/IRIS-Mini/zipball/v1.1.1",
+  "tarball_url": "https://api.github.com/repos/FlowShift-in/IRIS-Mini/tarball/v1.1.1",
+  "zipball_url": "https://api.github.com/repos/FlowShift-in/IRIS-Mini/zipball/v1.1.1",
   "body": "# 🌟 IRIS-MINI Neural Core - v1.1.1\r\n\r\nWe are thrilled to announce the official release of **IRIS-MINI v1.1.1**. This update brings major stability improvements to the CLI Core, ensuring flawless execution across global environments and silencing backend telemetry for a pristine terminal experience.\r\n\r\n## 🚀 What's New & Improved\r\n\r\n* **Absolute Pathing Engine:** Completely overhauled the Express server routing. The UI now resolves perfectly regardless of where the CLI is executed globally.\r\n* **The Silence Protocol:** Integrated strict Node.js hook interceptors. All internal V8 deprecation warnings (DEP0205) and Vite dev-logs are now completely masked in production.\r\n* **Express v5 Compatibility:** Updated routing wildcard logic (`/.*/`) to comply with the new `path-to-regexp` strictness in Express 5.1.0.\r\n* **Terminal UX Enhancements:** Added an explicit `Ctrl + C` exit command indicator to the boot banner for better user control.\r\n\r\n## 📦 Installation Instructions\r\n\r\nThere are two ways to install this release. \r\n\r\n### Option 1: The NPM Registry (Recommended)\r\nFor the fastest and easiest installation, pull directly from the global registry:\r\n```bash\r\nnpm install -g iris-mini@1.1.1\r\n```"
 }
